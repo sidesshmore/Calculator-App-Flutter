@@ -5,7 +5,11 @@ This repository contains a simple calculator app built using the Flutter framewo
 ##Calculator App Screenshot
 
 
-https://github.com/sidesshmore/Calculator-App-Flutter/assets/109675078/d72813cc-d2bf-4553-96ac-44cc2e947df8
+
+
+https://github.com/sidesshmore/Calculator-App-Flutter/assets/109675078/f7ac4ffa-ee21-4dd7-ba1a-d735a0289036
+
+
 
 
 
