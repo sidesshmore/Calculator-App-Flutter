@@ -65,6 +65,13 @@ To run this app, you need to have Flutter installed on your system. If you haven
 
 Contributions are welcome! If you find any issues or would like to add new features to the app, please feel free to open an issue or submit a pull request.
 
+## Contact
+
+For any questions or inquiries, please feel free to reach out to the project maintainer:
+
+- Name: [Sidesshmore](https://github.com/sidesshmore)
+- Email: [mosiddhesh@gmail.com](mailto:mosiddhesh@gmail.com)
+
 
 
 
