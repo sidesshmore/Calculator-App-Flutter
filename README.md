@@ -1,22 +1,69 @@
-# calculator_app
+# Calculator App Flutter
 
-A new Flutter project.
+This repository contains a simple calculator app built using the Flutter framework. The app allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division.
 
-## Getting Started
-
+![Calculator App Screenshot]
 https://github.com/sidesshmore/Calculator-App-Flutter/assets/109675078/c31652a0-ef39-45cf-b585-bbd66183c712
 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Addition: Perform addition of two numbers.
+- Subtraction: Perform subtraction of two numbers.
+- Multiplication: Perform multiplication of two numbers.
+- Division: Perform division of two numbers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this app, you need to have Flutter installed on your system. If you haven't installed Flutter yet, please follow the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install)
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/sidesshmore/Calculator-App-Flutter.git
+   ```
+
+2. Change to the project directory:
+
+   ```bash
+   cd Calculator-App-Flutter
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+   This will launch the app on a connected device or emulator.
+
+## Usage
+
+1. Enter the first number using the provided input field.
+
+2. Select the desired operation using the operation buttons.
+
+3. Enter the second number using the provided input field.
+
+4. Press the "=" button to perform the calculation.
+
+5. The result will be displayed on the screen.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or would like to add new features to the app, please feel free to open an issue or submit a pull request.
+
+
+
+
 
 
 
