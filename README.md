@@ -2,8 +2,12 @@
 
 This repository contains a simple calculator app built using the Flutter framework. The app allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division.
 
-![Calculator App Screenshot]
-https://github.com/sidesshmore/Calculator-App-Flutter/assets/109675078/c31652a0-ef39-45cf-b585-bbd66183c712
+##Calculator App Screenshot
+
+
+https://github.com/sidesshmore/Calculator-App-Flutter/assets/109675078/d72813cc-d2bf-4553-96ac-44cc2e947df8
+
+
 
 
 ## Features
